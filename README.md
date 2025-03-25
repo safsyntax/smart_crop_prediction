@@ -42,7 +42,7 @@ With global agriculture facing increasing pressure from climate variability and 
 
 ## 📁 Repository Contents
 
-- [`Smart_Crop_Prediction.ipynb`](https://github.com/safsyntax/smart_crop_prediction/blob/b06947cf6c91cbc909faec3b7af9b5809fea91b9/Smart_Crop_Prediction.ipynb): Full notebook with data preprocessing, EDA, model training and evaluation, and conceptual integration design.
+- [`Smart_Crop_Prediction.ipynb`](https://github.com/safsyntax/smart_crop_prediction/blob/f5b31ed6ebfbe2225c4f737373d3a22108494b90/Smart_Crop_Prediction.ipynb): Full notebook with data preprocessing, EDA, model training and evaluation, and conceptual integration design.
 
 ## 🚀 Future Enhancements
 
