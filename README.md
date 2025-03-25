@@ -56,4 +56,4 @@ This project aims to empower farmers with data-driven insights, optimize land us
 
 ## 📬 Contact
 
-For questions, collaboration, or feedback, feel free to reach out via [GitHub](https://github.com/safsyntax) or connect on [LinkedIn](https://www.linkedin.com/).
+For questions, collaboration, or feedback, feel free to reach out via [GitHub](https://github.com/safsyntax) or connect on [LinkedIn](https://www.linkedin.com/in/safiya-joseph-39248b51).
